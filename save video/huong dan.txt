@@ -1,4 +1,4 @@
-giai nen file ffmpeg_build
+giai nen file ffmpeg_build doi ten folder moi giai nen la ffmpeg_build
 
 Build project trong qt:
 
