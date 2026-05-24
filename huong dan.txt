@@ -1,0 +1,5 @@
+giai nen file ffmpeg_build
+
+Build project trong qt:
+
+Chon cmakelist.txt -> chon MinGW sau do record project
